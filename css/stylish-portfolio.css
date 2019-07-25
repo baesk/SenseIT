@@ -43,6 +43,8 @@ h6 {
 
 .text-faded {
   color: rgba(255, 255, 255, 0.7);
+  font-size: 1.5rem;
+  font-weight: 450;
 }
 
 /* Map */
